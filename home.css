@@ -1,0 +1,43 @@
+body{
+    /* background: linear-gradient(90deg, #000851 0%, #1CB5E0 150%); */
+    font-family: 'Manrope', sans-serif;
+    background: linear-gradient(150deg, #0700b8 0%, #00ff88 120%);
+    background-size: cover;
+}
+
+#contenedor1{
+    margin-top: 50px;
+    color: white;
+}
+
+#contenedor2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: white;
+}
+
+#proyectos{
+    color:black;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+#proyecto1, #proyecto2, #proyecto3, #proyecto4{
+    margin: 10px 0px 10px 0px;
+    border-radius: 12px;
+    color: white;
+    font-family: 'Manrope', sans-serif;
+    font-size: 20px;
+    background-color: #d7705d;
+    text-transform: uppercase;
+}
+
+span{
+    display: block;
+    margin: 0px;
+    color: white;
+}
+
+#enlace1, #enlace2, #enlace3, #enlace4, #enlace5{
+    text-decoration:none;
+}
